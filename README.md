@@ -1,6 +1,6 @@
-# **Fake_Number_Plate_Detection**
+# **Fake Number Plate Detection**
 
-## **가짜/위조 번호판 부착 차량을 방지 못하는 기존 주차 관제 시스템의 문제점 개선**  
+## **위조번호판 부착 차량 출입 방지를 위한 인공지능 기반의 주차관제시스템 개선 방안**  
 
 
 ![스크린샷 2022-02-08 오후 6 11 42](https://user-images.githubusercontent.com/68156494/152955364-c8074bc4-2537-4940-9bb4-643f380baa19.png)
